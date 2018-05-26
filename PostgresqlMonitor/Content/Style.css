@@ -1,0 +1,33 @@
+﻿body {
+}
+
+.app-title {
+    font-size: 25px;
+    font-weight: bold;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+}
+
+.custom-table {
+    font-size: 14px;
+}
+
+.custom-table th img{
+    width: 16px;
+    height: 16px;
+    margin-left: 4px;
+}
+
+.query-label {
+    display: block;
+    width: 400px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.grid {
+    margin-top: 10px;
+}
